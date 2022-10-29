@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anurag-Raju
-- 👀 I’m interested in Full Stack Java Developer(Java+React/Vue)roles
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Full Stack Java Developer (Java+React/Vue) roles
+- 🌱 I’m currently learning Spring-boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anuragraju.480@gmail.com
 
